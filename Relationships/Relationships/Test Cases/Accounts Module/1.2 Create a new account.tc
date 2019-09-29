@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1.2 Create a new account</name>
+   <tag>1.1</tag>
+   <comment></comment>
+   <testCaseGuid>4dafa7af-ca3f-4b35-ad4b-8dc36232f8ae</testCaseGuid>
+   <variable>
+      <defaultValue>'kwang'</defaultValue>
+      <description></description>
+      <id>07b68e06-fcae-4a19-b864-34106d7092c9</id>
+      <masked>false</masked>
+      <name>userName</name>
+   </variable>
+   <variable>
+      <defaultValue>'KatWan19'</defaultValue>
+      <description></description>
+      <id>4adbf7e9-1d17-436c-a06f-facb21650f0f</id>
+      <masked>false</masked>
+      <name>passWord</name>
+   </variable>
+</TestCaseEntity>
